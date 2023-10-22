@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+*.mp3
+*.log
+*.env
+*sh.env
+*sh.em
